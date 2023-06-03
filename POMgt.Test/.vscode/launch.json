@@ -10,6 +10,20 @@
                                "port":  7049,
                                "tenant":  "default",
                                "authentication":  "UserPassword"
+                           },
+                           {
+                               "type":  "al",
+                               "request":  "launch",
+                               "name":  "Cloud Sandbox (nickd-sandbox)",
+                               "environmentType":  "Sandbox",
+                               "environmentName":  "nickd-sandbox"
+                           },
+                           {
+                               "type":  "al",
+                               "request":  "launch",
+                               "name":  "Cloud Sandbox (sandbox)",
+                               "environmentType":  "Sandbox",
+                               "environmentName":  "sandbox"
                            }
                        ]
 }
