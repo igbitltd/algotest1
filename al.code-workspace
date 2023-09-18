@@ -8,6 +8,9 @@
     },
     {
       "path": "POMgt.Test"
+    },
+    {
+      "path": "TestApp1"
     }
   ],
   "settings": {}
